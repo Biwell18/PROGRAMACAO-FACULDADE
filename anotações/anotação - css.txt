@@ -1,0 +1,33 @@
+css (folha de estilo em cascata)
+
+estilo, formatação, estética
+
+css sustenta
+
+INLINE (não deve)
+INTERNO E (pode)
+EXTERNO (deve)
+
+inline - o style fica dentro da tag
+<body (nome da tag) style (atributo dentro da tag)="background-color (propriedade do css: salmon;">
+cor do fundo da página em salmão
+
+interno
+tag style diretamente
+
+body 
+h1 
+é um seletor
+as tags usadas no css interno
+
+
+CSS INTERNO (ORDEM)
+
+STYLE 
+seletor
+propriedade
+valor
+
+#teste (seletor) {
+text-align (propriedade) 
+center (valor)
