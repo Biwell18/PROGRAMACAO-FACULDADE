@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h2 {
+    color: green;
+
+}
+
+h1 {
+color: yellow;
+
+}
+
+p {
+    color: magenta;
+
+}
+
+#s3 {
+    color: red;
+
+}
+
+.fundo {
+    background-color: aqua;
+}
+.textoazul {
+    color: blue;
+}
+/*
+seletor(propriedade:valor;)
+*/

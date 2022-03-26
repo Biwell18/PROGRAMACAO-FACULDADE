@@ -1,0 +1,32 @@
+meta 
+content define o navegador usado
+largura definido pelo content width e etc
+
+direciona para o celular =   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+NÃO USAR CSS INLINE - NUNCA
+
+  <link rel="stylesheet" href="estilo.css">
+explicação da tag =
+
+linkar (link) com arquivos relacionados (rel) ao local que esta (href) = nome do arquivo
+
+como trocar a fonte de texto da página?
+
+na página inteira utilizar tag body
+font-family
+
+identificar tag = id
+nao pode mais de um id com o msm nome
+
+<tag id="nome_identidade">
+id = #(nome da id)
+
+
+
+class usa quantas vezes quiser
+.fundo = ativa o class no css
+
+
+
+

@@ -1,0 +1,36 @@
+variável permite mudança de conteúdo armazenado quando quiser
+constante não pode mudar, mas é o mesmo processo, constante nao se mexe mais
+
+uma constante é uma variável de pi
+
+const pi;
+
+python e java são ; opcionais
+pode qualquer nome, mas melhor nome com sentido com o valor
+
+const pi = 3.14;
+pi = 5;
+
+não pode alterar constante.
+
+entrada de dados pelo prompt sempre é string
+
+var nome_da_variável = prompt("Mensagem");
+
+int deixa em numero inteiro
+parseInt 2 + 5 = 7
+float deixa fracionado
+parseFloat 2.5 + 5 = 7.5
+
+var x, y, res;
+x = prompt("Digite um número"); // 2
+x = parseInt(x);
+y = prompt("Digite outro número"); // 5
+y = parseInt(y);
+res = x + y;//res=
+
+parseInt calcula ambos
+
+sem ficaria junto
+
+usar virgula ao inves de ponto no prompt
