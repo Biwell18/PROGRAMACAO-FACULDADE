@@ -1,0 +1,94 @@
+constante = nao muda
+variavel = espaço na memoria q vai conter um valor, pode mudar
+
+estou de mudança
+
+tem uma caixa
+
+var so usa um valor de cada vez
+
+var nome recebe joao
+abaixo
+var recebe jose
+
+o valor pode variar e mudar
+o último valor é o único que vai permanecer
+
+let é em estrutura de condição
+
+operadores unários só operam em um valor
+
+operador binário = 5 + 3 = 8
+há dois valores entre
+há valor variável
+
+operador ternário: 3 elementos
+
+OPERADORES EM JS
+
+aritmeticos
+atribuição
+string
+incremento/decremento
+comparação
+lógicos
+ternário
+
+ARITMETICO
+
+resultado sempre será um numero, quebrado(float) ou inteiro(int)
+5 + 2 = 3 (aritmetico)
+52
+
+2y na matematica
+ou 5x etc
+
+é uma multiplicação
+
+toda variavel do lado esquerdo do sinal de igual
+
+ela q vai receber os calculos e operaqções
+ela fornece resultado de uma oper
+
+para saber o valor da variavel preciso saber o resultado
+
+x = 2y+z // quer calcular x // x esta recebendo a expressão // ladop esquerdo recebe e direito fornmecevalor
+2 e y são os operadores aritmericos
+2 x 1 + 1 = x
+
+2 vezes o y em caso de 2y
+
+a=10 b=2
+
+exponenciação 
+**
+a ** b
+
+100
+
+modulo % a  % b = 0
+resto de divisão é o que sobra da divisão
+
+
+OPERADORES DE ATRIBUIÇÃO
+
+LADO ESQUERDO É O PERADOR
+DIREITO A ATRIBUIÇÃO
+OPERADOR DE ATRIBUIÇÃO
+
+A SOMADO COM B
+VOLTA PRO A
+
+PEGA VALOR DE A, SUBTRAI PRA B E VOLTA PRA A
+
+MACETE
+
+a primeira variável recebe no calculo
+
+var a = 
+recebe
+
+b=8
+a=0
+
+operador de string

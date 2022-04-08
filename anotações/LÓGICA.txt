@@ -1,0 +1,58 @@
+PORTUGOL
+
+De acordo com Oliveira (2004), “há diversas formas de representação de algoritmos que diferem entre si pela quantidade de detalhes de implementação que fornecem ou, inversamente, pelo grau de abstração que possibilitam com relação à implementação do algoritmo em termos de uma linguagem de programação específica.”
+
+há um processo de verificação do código, o colocando em ação
+TESTE DE MESA
+
+Para aplicar a técnica denominada teste de mesa, precisaremos de papel, caneta e paciência, para ler e realizar cada instrução encadeada como se fôssemos um computador.
+
+Podemos aplicar o teste de mesa a qualquer tipo de algoritmo, seja uma descrição narrativa, um fluxograma ou um pseudocódigo.
+
+Vamos descobrir como aplicar esse teste na prática? Mas antes, leia a tirinha para descontrair um pouco.
+
+1. Todo algoritmo em pseudocódigo deve ser iniciado com Algoritmo: NomeDoAlgoritmo.
+
+2. O início e fim do programa são limitados pelos marcadores Início e Fim.
+
+3. As variáveis são declaradas no início do algoritmo, abaixo do marcador Var, da seguinte forma: NomeDaVariável: Tipo da variável.
+
+4. Os nomes das variáveis NÃO podem:
+
+Iniciar por número (erro: 1nome)
+Ter espaço (erro: nome completo)
+Ter caracteres especiais (´,`, ~,ç ,- e outros).
+
+5. As palavras-reservadas devem ser evitadas: Início, Fim, Var, Se e Senão.
+
+6. Os nomes das variáveis são case sensitive. Dessa forma, ao manipularmos variáveis, devemos usar o mesmo nome declarado no início, considerando o uso de letras maiúsculas e minúsculas.
+
+7. O comando Leia deve ser usado para receber (capturar) dados do usuário, fase do processamento conhecida como “Entrada de Dados”.
+
+8. O comando Escreva deve ser usado para exibir (apresentar, mostrar) dados ao usuário, fase do processamento conhecida como “Saída de Dados”.
+
+9. Os textos a serem exibidos na tela ou que devam ser inseridos como caractere são colocados entre "aspas“ (representação universal de um valor literal ou string – “Sistemas”).
+
+10. Os comentários sobre o código podem ser inseridos {entre chaves} (incomum por confundir com agrupamentos) ou inseridos utilizando // (mais comum) no início da linha de instruções. O comentário não altera a execução do código. Contudo, ele é de fundamental importância para documentar e tornar inteligíveis as escolhas de programação realizadas no código para outros programadores.
+
+podemos afirmar que programar computadores é lidar com informações e instruções para manipular dados e chegar a resultados.
+
+operadores são elementos que atuam sobre os operandos
+
+ou seja, são símbolos ou palavras reservadas (true/false) por meio dos quais é possível fazer cálculos, comparar resultados e atribuir valores às variáveis.
+
+Existem três tipos diferentes de operadores: aritméticos, relacionais e lógicos. 
+
+Operadores aritméticos
+Possibilitam realizar cálculos em expressões matemáticas ou aritméticas. Suas palavras ou símbolos reservados são:
+
+Operadores relacionais
+Possibilitam fazer comparações ou relacionamentos entre dados numéricos e literais (caracteres). Suas palavras ou símbolos reservados são:
+
+Os operadores relacionais ou de comparação são muito utilizados nas codificações pelas Linguagens de Programação.
+
+<> (diferente de), que representa uma desigualdade na lógica,
+
+nome
+tipo
+conteúdo
