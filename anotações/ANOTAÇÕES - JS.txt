@@ -1,0 +1,11 @@
+90% parseFloat
+10% parseInt
+
+o papel do ++ é somar um (1) não importa posição
+
+++a - soma primeira // pré-incremento
+a++ soma após o valor // pós-incremento
+
+operador de comparação
+
+sempre será true
