@@ -1,0 +1,18 @@
+operador ternário
+
+3 situações = 3 elementos
+
+if (condição) - vai ver a condição que ja foi testada
+a condição so aparece na frente do if
+
+so executa o else quando a condição do if for falsa
+
+e só tem else se ter if
+
+switch/case
+
+caso o valor da variável for tal, fazer algo e parar de fazer análise
+
+break encerra estrutura
+
+
